@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAACAiIiIAAAAAAgACAAIAAAACAAIAAgAiIiIiIiIiIgAAAgACAAIAIiIiIiIiIiIAAAIAAgACAAAAAgACAAIAAAAgIiIiAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cursor"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
